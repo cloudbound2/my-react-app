@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <h1>Hello, React App on port 3000.
-        <br>HEAD -&gt; main, origin/main OK.</h1>
+        <br></br>
+        HEAD -&gt; main, origin/main OK.</h1>
     </div>
   );
 }
